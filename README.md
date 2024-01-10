@@ -5,7 +5,7 @@ Welcome to the Sticky Notes Android App project! To-Do-List is a robust and user
 ## Table of Contents
 
 - [Features](#features)
-- [Extending To-Do-List Application Beyond Core Experience](#Extending To-Do-List Application Beyond Core Experience)
+-- [Extending To-Do-List Application](#Extending_Application)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [License](#license)
@@ -21,7 +21,7 @@ The following tasks have been successfully completed:
 - Added Task Description: Each task now includes a detailed description for better clarity and understanding.
 - Implemented Local Storage: Utilized local storage for secure and convenient task persistence, ensuring seamless access and data integrity across sessions.
 
-## Extending To-Do-List Application Beyond Core Experience
+## Extending_Application
 
 To enhance the To-Do-List application, we have extended its capabilities to integrate with interfaces outside the core application experience through notifications and app widgets. This ensures users can access and interact with their tasks seamlessly from various points on their devices.
 
