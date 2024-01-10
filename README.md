@@ -5,10 +5,9 @@ Welcome to the Sticky Notes Android App project! To-Do-List is a robust and user
 ## Table of Contents
 
 - [Features](#features)
--- [Extending To-Do-List Application](#Extending_Application)
+- [Extending To-Do-List Application](#Extending_Application)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [License](#license)
 
 ## Features
 
@@ -54,5 +53,8 @@ Screenshots of the apps show casing its user interface and features.
 ![Screenshot 11](/screenshots/screenshot11.png)
 
 ## Getting Started
-
+Instructions on how to set up and use the app locally:
+1. Download the github Repository and extract.
+2. Extract the Application.rar.
+3. Setup the android studio and run the app.
 
